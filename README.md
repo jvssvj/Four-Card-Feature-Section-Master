@@ -24,7 +24,7 @@
 <div align='center'>
   <h2>Preview</h2>
   <img src="./design/desktop-preview.jpg" alt="Four Card Feature Section Master Preview">
-  <p>Design preview for the Four Card Feature Section Master coding challenge.</p>
+  <p>Design preview for the Four Card Feature Section Master challenge.</p>
 </div>
 
 <br>
